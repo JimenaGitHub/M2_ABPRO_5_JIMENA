@@ -101,7 +101,7 @@ h2 {
 
 .footer{
     width: 100%;
-    padding: 50px 10px;
+    padding: 20px 10px 20px 10px;
     text-align: center;
     text-align: center;
     color: rgb(254, 254, 254);
@@ -118,6 +118,7 @@ h2 {
 .selector-for-some-widget {
     box-sizing: content-box;
   }
+
 
 
 
