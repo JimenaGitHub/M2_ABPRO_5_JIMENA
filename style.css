@@ -1,5 +1,4 @@
 * {
-    padding: auto;
     margin: auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 24px;
@@ -57,6 +56,7 @@ h2 {
 .somos imagenes{
     padding: 30px;
     max-width: 40%;
+    line-height: 0px;
 }
 
 @media(max-width: 768px) {
@@ -69,7 +69,6 @@ h2 {
     display: flex;
     flex-direction: column;
     text-align: center; 
-    /* background-color: rgb(223, 149, 53);     */
     padding: 10%;
 }
 .gallery {
@@ -85,7 +84,6 @@ h2 {
     padding: 100px 10px ;
     text-align: center;
 }
-
 
 @media(max-width: 768px){
     .formulario {
@@ -104,15 +102,15 @@ h2 {
     padding: 20px 10px 20px 10px;
     text-align: center;
     text-align: center;
-    color: rgb(254, 254, 254);
     background-color: rgb(235, 157, 197);
     border-top: rgb(254, 254, 254) 1px solid;
 
 }
 
 .navbar {
-    background-color: rgb(235, 157, 197) !important;
+    /* background-color: rgb(235, 157, 197) !important; */
     margin: 0px;
+    background:linear-gradient(rgb(235, 157, 197), #FFFFFF);
     
 }
 
@@ -120,7 +118,21 @@ h2 {
     box-sizing: content-box;
   }
 
+.hearts {
+    padding-top: 100px;
+    padding-bottom: 100px;
+   
+}
 
+.galeria {
+    background:linear-gradient(#FFFFFF, rgb(235, 157, 197));
+}
+
+
+.size-letter {
+    padding: 20px;
+    font-size: 30px;
+}
 
 
 

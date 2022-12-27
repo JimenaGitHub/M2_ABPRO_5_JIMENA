@@ -52,6 +52,17 @@ $(function(){
         titulo: 'I Want a Bone',
         url: strL+'1518717758536-85ae29035b6d'+strR,
       },
+      {
+        descripcion: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        titulo: 'I Want a Bone',
+        url:'imagenes/dachshund.jpg',
+      },
+      {
+        descripcion: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        titulo: 'I Want a Bone',
+        url:'imagenes/labrador-retriever.jpg',
+      },
+
     ]
   
     $.each(imgs, function(i, img){
