@@ -88,7 +88,11 @@ $(function(){
             <div class="wrapper">
               <div class="blur" style="background-image:url(${imagen})"></div>
               <p class="titulo">${titulo}</p>
-              <img src="${imagen}">
+              <img id="foto" src="${imagen}">
+
+              <img onclick="changelike(this)" id="like" class="like invisible" src="imagenes/heart.png">
+              <img onclick="changelike(this)" id="dislike" class="like visible" src="imagenes/heart2.png">
+
               <p class="desc">${descripcion}</p>
             </div>
             <div class="controles">
@@ -122,10 +126,28 @@ $(function(){
         $('.contenedorImgs .imagen.activa').removeClass('activa');
         $('.contenedorImgs .imagen').eq(index).addClass('activa');
         $('.fullPreview').find('.blur').css('background-image', 'url('+imgs[index].url+')');
-        $('.fullPreview').find('img').attr('src', imgs[index].url);
+        $('.fullPreview').find('#foto').attr('src', imgs[index].url);
         $('.fullPreview').find('.titulo').text(imgs[index].titulo);
         $('.fullPreview').find('.desc').text(imgs[index].descripcion);
         $('.fullPreview').removeClass('anim');
       }, 500)
     })
   })
+
+  function changelike(element){
+    
+    if (element.id==="dislike"){
+      $("#dislike").addClass("invisible")
+      $("#dislike").removeClass("visible")
+      $("#like").addClass("visible")
+      $("#like").removeClass("invisible")
+    }
+
+    else {
+      $("#dislike").addClass("visible")
+      $("#dislike").removeClass("invisible")
+      $("#like").addClass("invisible")
+      $("#like").removeClass("visible")
+
+    }
+  }
