@@ -107,6 +107,8 @@ h2 {
     padding: 20px 10px 20px 10px;
     background-color: rgb(235, 157, 197);
     border-top: rgb(254, 254, 254) 1px solid;
+    
+   
 
 }
 
@@ -139,6 +141,19 @@ h2 {
    
 }
 
+.subhead-article{
+    padding: 20px 10%;
+    font-size: 28px;
+    text-align: justify;
+
+}
+
+.txt-article{
+    padding: 20px 10%;
+    font-size: 20px;
+    text-align: justify;
+}
+
 .like {
     width: 40px;
     margin: 10px;
@@ -152,4 +167,6 @@ h2 {
     display: none;
 }
 
-
+.article-list{
+    padding: 50px 10%;
+}
