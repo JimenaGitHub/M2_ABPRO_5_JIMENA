@@ -9,17 +9,17 @@ $(function(){
       },
       {
         descripcion: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-        titulo: 'Pug Life',
-        url: strL+'1517423440428-a5a00ad493e8'+strR,
+        titulo: 'I want a bitchfriend',
+        url:'imagenes/Tobi.jpeg',
       },
       {
         descripcion: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-        titulo: 'I Love Flowers',
+        titulo: 'I love flowers',
         url: strL+'1510771463146-e89e6e86560e'+strR,
       },
       {
         descripcion: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-        titulo: 'Cute Puppy',
+        titulo: 'I am a cute puppy',
         url: strL+'1507146426996-ef05306b995a'+strR,
       },
       {
@@ -29,37 +29,37 @@ $(function(){
       },
       {
         descripcion: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-        titulo: 'Happy Friends',
+        titulo: 'Happy friends',
         url: strL+'1548199973-03cce0bbc87b'+strR,
       },
       {
         descripcion: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-        titulo: 'A Great Dog',
+        titulo: 'A great dog',
         url: strL+'1552053831-71594a27632d'+strR,
       },
       {
         descripcion: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-        titulo: 'Universitary Dog',
+        titulo: 'Universitary dog',
         url: strL+'1535930891776-0c2dfb7fda1a'+strR,
       },
       {
         descripcion: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-        titulo: 'I Love Brother',
+        titulo: 'I love brother',
         url: strL+'1504595403659-9088ce801e29'+strR,
       },
       {
         descripcion: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-        titulo: 'I Want a Bone',
+        titulo: 'I want a bone',
         url: strL+'1518717758536-85ae29035b6d'+strR,
       },
       {
         descripcion: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-        titulo: 'I Want a Bone',
+        titulo: 'I want a friend',
         url:'imagenes/dachshund.jpg',
       },
       {
         descripcion: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-        titulo: 'I Want a Bone',
+        titulo: 'I want a friend to play',
         url:'imagenes/labrador-retriever.jpg',
       },
 
